@@ -14,7 +14,7 @@ Number | Recommendation | Link
 
 Number | Recommendation | Link
 ------ | -------------- | ----
-8	| Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and physical inactivity | [table8] (https://github.com/johnnybender/adastandards2016/edit/master/tables/table8.md)
+8	| Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and physical inactivity | [table8] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table8.md)
 9	| Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and first degree relative with diabetes
 10 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and high risk race/ethnicity (e.g., African American, Latino, Native American, Asian American, Pacific Islander)
 11 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and women who delivered a baby weighing >9 lb or were diagnosed with GDM
