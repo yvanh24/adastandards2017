@@ -4,7 +4,7 @@
 
 Number | Recommendation | Link
 ------ | -------------- | ----
-1	| FPG >=126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h. | [Name of link] (https://google.com)
+1	| FPG >=126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h.
 2	| 2-h PG >=200 mg/dL (11.1 mmol/L) during an OGTT. The test should be performed as described by the WHO, using a glucose load containing the equivalent of 75 g anhydrous glucose dissolved in water.
 3	| A1C >=6.5% (48 mmol/mol). The test should be performed in a laboratory using a method that is NGSP certified and standardized to the DCCT assay.
 4	| In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose >=200 mg/dL (11.1 mmol/L)
