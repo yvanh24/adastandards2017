@@ -122,8 +122,7 @@ Number | Recommendation | Link
 7	| Providers should recognize that homelessness, poor literacy, and poor numeracy often occur with food insecurity, and appropriate resources should be made available for patients with diabetes.
 8	| "Intensive glucose control is not advised for the improvement of poor cognitive function in hyperglycemic individuals with type 2 diabetes."
 9	| In individuals with poor cognitive function or severe hypoglycemia, glycemic therapy should be tailored to avoid significant hypoglycemia.
-10 | "In individuals with diabetes at high cardiovascular risk, the cardiovascular
-benefits of statin therapy outweigh the risk of cognitive dysfunction."
+10 | "In individuals with diabetes at high cardiovascular risk, the cardiovascular benefits of statin therapy outweigh the risk of cognitive dysfunction."
 11 | If a second-generation antipsychotic medication is prescribed, changes in weight, glycemic control, and cholesterol levels should be carefully monitored and the treatment regimen should be reassessed.
 16	| To test for prediabetes, fasting plasma glucose, 2-h plasma glucose after 75-g oral glucose tolerance test, and A1C are equally appropriate.
 19	| Type 1 Diabetes: Blood glucose rather than A1C should be used to diagnose acute onset of type 1 diabetes in individuals with symptoms of hyperglycemia.
