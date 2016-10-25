@@ -7,15 +7,6 @@ Number | Recommendation | Link
 3	| A1C >=6.5% (48 mmol/mol). The test should be performed in a laboratory using a method that is NGSP certified and standardized to the DCCT assay.*
 4	| In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose >=200 mg/dL (11.1 mmol/L)
 
-
-### Table 2.3: Criteria for Pre-diabetes:
-
-Number | Recommendation | Link
------- | -------------- | ----
-5 |	FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)
-6	| 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)
-7	| A1C 5.7–6.4% (39–46 mmol/mol)
-
 ### Table 2.2: Criteria for testing for diabetes or prediabetes in asymptomatic adults:
 
 Number | Recommendation | Link
@@ -32,6 +23,14 @@ Number | Recommendation | Link
 17 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and history of CVD
 18 | For all patients, testing should begin at age 45 years
 19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status.
+
+### Table 2.3: Criteria for Pre-diabetes:
+
+Number | Recommendation | Link
+------ | -------------- | ----
+5 |	FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (IFG)
+6	| 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (IGT)
+7	| A1C 5.7–6.4% (39–46 mmol/mol)
 
 ### Table 2.4: Criteria for testing for type 2 diabetes or prediabetes in asymptomatic children:
 
