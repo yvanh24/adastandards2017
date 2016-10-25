@@ -25,4 +25,10 @@ Number | Recommendation | Link
 
 ### Table 2.4 (Criteria for testing for type 2 diabetes or prediabetes in asymptomatic children):
 
+Number | Recommendation | Link
+------ | -------------- | ----
+20 | Overweight (BMI>85th percentile for age and sex, weight for height >85th percentile, or weight >120% of ideal for height) and Family history of type 2 diabetes in first- or second-degree relative
+21	| Overweight (BMI>85th percentile for age and sex, weight for height >85th percentile, or weight >120% of ideal for height) and Race/ethnicity (Native American, African American, Latino, Asian American, Pacific Islander)
+22	| Overweight (BMI>85th percentile for age and sex, weight for height >85th percentile, or weight >120% of ideal for height) and Signs of insulin resistance or conditions associated with insulin resistance (acanthosis nigricans, hypertension, dyslipidemia, polycystic ovary syndrome, or small-for-gestationalage birth weight)
+23	| Overweight (BMI>85th percentile for age and sex, weight for height >85th percentile, or weight >120% of ideal for height) and Maternal history of diabetes or GDM during the child’s gestation
 
