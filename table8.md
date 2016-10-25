@@ -1,4 +1,4 @@
-Table 2.2 <p></p>
+Table 2.2
 Number 8
 
 Page: S16
