@@ -1,5 +1,5 @@
 Table 2.2
-
+<p></p>
 Number 8
 
 Page: S16
