@@ -24,3 +24,14 @@ Physical Inactivity | Z72.3
 Description | Codes
 ----------- | -----
 BMI | 39156-5
+
+#### Modules:
+
+Module | Link
+------ | ----
+Age >= 18 YO
+Table 2.2: ID8: Overweight/Obese
+Table 2.2: ID8: ICD10: Overweight/Obese
+Table 2.2: ID8: LOINC: 39156-5
+Table 2.2: ID8: ICD9: V69.0
+Table 2.2: ID8: ICD10: Z72.3
