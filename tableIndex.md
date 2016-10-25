@@ -1,5 +1,7 @@
 
 ### Table 2.1: Diagnostic Criteria for Diabetes:
+## Link: 
+
 Number | Recommendation | Link
 ------ | -------------- | ----
 1	| FPG >=126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h.*
@@ -8,6 +10,7 @@ Number | Recommendation | Link
 4	| In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose >=200 mg/dL (11.1 mmol/L)
 
 ### Table 2.2: Criteria for testing for diabetes or prediabetes in asymptomatic adults:
+## Link:
 
 Number | Recommendation | Link
 ------ | -------------- | ----
@@ -25,6 +28,7 @@ Number | Recommendation | Link
 19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status.
 
 ### Table 2.3: Criteria for Pre-diabetes:
+## Link:
 
 Number | Recommendation | Link
 ------ | -------------- | ----
@@ -33,6 +37,7 @@ Number | Recommendation | Link
 7	| A1C 5.7–6.4% (39–46 mmol/mol)
 
 ### Table 2.4: Criteria for testing for type 2 diabetes or prediabetes in asymptomatic children:
+## Link:
 
 Number | Recommendation | Link
 ------ | -------------- | ----
