@@ -159,7 +159,7 @@ Number | Recommendation | Link
 72	| Referral for initial care management: Mental health professional, if indicated
 74	| Effective self-management, improved clinical outcomes, health status, and quality of life are key outcomes of DSME and DSMS and should be measured and monitored as part of care.
 75	| DSME and DSMS should be patient centered, respectful, and responsive to individual patient preferences, needs, and values, which should guide clinical decisions.
-76	DSME and DSMS programs should have the necessary elements in their curricula that are needed to prevent the onset of diabetes. DSME and DSMS programs should therefore tailor their content specifically when prevention of diabetes is the desired goal.
+76	| DSME and DSMS programs should have the necessary elements in their curricula that are needed to prevent the onset of diabetes. DSME and DSMS programs should therefore tailor their content specifically when prevention of diabetes is the desired goal.
 77	| Because DSME and DSMS can result in cost savings and improved outcomes, DSME and DSMS should be adequately reimbursed by third-party payers.
 79	| Goals of Medical Nutrition Therapy for Adults with Diabetes: To promote and support healthful eating patterns, emphasizing a variety of nutrient-dense foods in appropriate portion sizes, in order to improve overall health and specifically to: a. Achieve and maintain body weight goals; b. Attain individualized glycemic, blood pressure, and lipid goals; c. Delay or prevent complications of diabetes
 80	| To address individual nutrition needs based on personal and cultural preferences, health literacy and numeracy, access to healthful foods, willingness and ability to make behavioral changes, and barriers to change
