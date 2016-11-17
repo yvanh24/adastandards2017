@@ -17,15 +17,15 @@ Number | Item | Link
 8	| Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and physical inactivity | [table08] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table08.md)
 9	| Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and first degree relative with diabetes | [table09] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table09.md)
 10 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and high risk race/ethnicity (e.g., African American, Latino, Native American, Asian American, Pacific Islander) | [table10] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table10.md)
-11 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and women who delivered a baby weighing >9 lb or were diagnosed with GDM
-12 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and hypertension (>=140/90 mmHg or on therapy for hypertension)
-13 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and HDL cholesterol level <35 mg/dL (0.90 mmol/L) and/or a triglyceride level >250 mg/dL (2.82 mmol/L)
-14 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and women with polycystic ovary syndrome
-15 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and A1C >=5.7% (39 mmol/mol), IGT, or IFG on previous testing
-16 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and other clinical conditions associated with insulin resistance (e.g., severe obesity, acanthosis nigricans)
-17 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and history of CVD
-18 | For all patients, testing should begin at age 45 years
-19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status.
+11 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and women who delivered a baby weighing >9 lb or were diagnosed with GDM | [table11] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table11.md)
+12 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and hypertension (>=140/90 mmHg or on therapy for hypertension) | [table12] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table12.md)
+13 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and HDL cholesterol level <35 mg/dL (0.90 mmol/L) and/or a triglyceride level >250 mg/dL (2.82 mmol/L) | [table13] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table13.md)
+14 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and women with polycystic ovary syndrome | [table14] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table14.md)
+15 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and A1C >=5.7% (39 mmol/mol), IGT, or IFG on previous testing | [table15] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table15.md)
+16 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and other clinical conditions associated with insulin resistance (e.g., severe obesity, acanthosis nigricans) | [table16] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table16.md)
+17 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and history of CVD | [table17] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table17.md)
+18 | For all patients, testing should begin at age 45 years | [table18] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table18.md)
+19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status | [table19] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table19.md)
 
 ### Table 2.3: Criteria for Pre-diabetes:
 #### Link:
