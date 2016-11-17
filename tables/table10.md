@@ -1,8 +1,8 @@
 [tableIndex] (https://github.com/johnnybender/adastandards2016/blob/master/index/tableIndex.md)
 
-### **Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and first degree relative with diabetes**
+### **Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and high-risk race/ethnicity (e.g., African American, Latino, Native American, Asian American, Pacific Islander)**
 * Table 2.2
-* Number 9
+* Number 10
 * Page S16
 
 #### ICD-9 Codes:
