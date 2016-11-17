@@ -1,7 +1,7 @@
 ### Recommendations
 
-Number | Recommendation | Link
------- | -------------- | ----
+Priority | Number | Recommendation | Link
+-------- | ------ | -------------- | ----
 27 | Test for undiagnosed type 2 diabetes at the first prenatal visit in those with risk factors, using standard diagnostic criteria. | [rec27] (https://github.com/johnnybender/adastandards2016/blob/master/recs/rec27.md)
 28 | Test for gestational diabetes mellitus at 24–28 weeks of gestation in pregnant women not previously known to have diabetes.
 29 | Screen women with gestational diabetes mellitus for persistent diabetes at 6–12 weeks postpartum, using the oral glucose tolerance test and clinically appropriate nonpregnancy diagnostic criteria.
@@ -39,7 +39,7 @@ Number | Recommendation | Link
 209	| Use aspirin therapy (75–162 mg/day) as a secondary prevention strategy in those with diabetes and a history of atherosclerotic cardiovascular disease.
 210	| For patients with atherosclerotic cardiovascular disease and documented aspirin allergy, clopidogrel (75 mg/day) should be used.
 214	| In patients with known atherosclerotic cardiovascular disease, use aspirin and statin therapy (if not contraindicated)
-215	| "In patients with known atherosclerotic cardiovascular disease, consider ACE inhibitor therapy, to reduce the risk of cardiovascular events."
+215	| In patients with known atherosclerotic cardiovascular disease, consider ACE inhibitor therapy, to reduce the risk of cardiovascular events.
 216	| In patients with prior myocardial infarction, b-blockers should be continued for at least 2 years after the event.
 217	| In patients with symptomatic heart failure, thiazolidinedione treatment should not be used.
 217	| In patients with type 2 diabetes with stable congestive heart failure, metformin may be used if renal function is normal but should be avoided in unstable or hospitalized patients with congestive heart failure.
@@ -70,8 +70,8 @@ Number | Recommendation | Link
 88 | Energy balance: Modest weight loss achievable by the combination of lifestyle modification and the reduction of energy intake benefits overweight or obese adults with type 2 diabetes and also those at risk for diabetes. Interventional programs to facilitate this process are recommended.
 109	| Administer hepatitis B vaccine to unvaccinated adults with diabetes who are aged 19–59 years.
 110	| Consider administering hepatitis B vaccine to unvaccinated adults with diabetes who are aged >=60 years. 
-125	| "Metformin therapy for prevention of type 2 diabetes should be considered in those with prediabetes, especially in those with BMI >35 kg/m2, those aged <60 years, and women with prior gestational diabetes mellitus."
-127 | "Screening for and treatment of modifiable risk factors for cardiovascular disease is suggested"
+125	| Metformin therapy for prevention of type 2 diabetes should be considered in those with prediabetes, especially in those with BMI >35 kg/m2, those aged <60 years, and women with prior gestational diabetes mellitus.
+127 | Screening for and treatment of modifiable risk factors for cardiovascular disease is suggested
 142 | A reasonable A1C goal for many nonpregnant adults is <7% (53 mmol/mol).
 150	| Glucagon should be prescribed for all individuals at increased risk of severe hypoglycemia, defined as hypoglycemia requiring assistance, and caregivers, school personnel, or family members of these individuals should be instructed in its administration. Glucagon administration is not limited to health care professionals.
 167	| Most people with type 1 diabetes should be treated with multiple-dose insulin injections (three to four injections per day of basal and prandial insulin) or continuous subcutaneous insulin infusion.
@@ -109,7 +109,7 @@ Number | Recommendation | Link
 38	| Patients with cystic fibrosis–related diabetes should be treated with insulin to attain individualized glycemic goals.
 39	| In patients with cystic fibrosis and impaired glucose tolerance without confirmed diabetes, prandial insulin therapy should be considered to maintain weight.
 40	| Beginning 5 years after the diagnosis of cystic fibrosis–related diabetes, annual monitoring for complications of diabetes is recommended
-126	| "At least annual monitoring for the development of diabetes in those with prediabetes is suggested."
+126	| At least annual monitoring for the development of diabetes in those with prediabetes is suggested.
 133	| When used properly, continuous glucose monitoring (CGM) in conjunction with intensive insulin regimens is a useful tool to lower A1C in selected adults (aged >=25 years) with type 1 diabetes.
 134	| Although the evidence for A1C lowering is less strong in children, teens, and younger adults, CGM may be helpful in these groups. Success correlates with adherence to ongoing use of the device.
 170	| Individuals who have been successfully using continuous subcutaneous insulin infusion should have continued access after they turn 65 years of age.
@@ -120,9 +120,9 @@ Number | Recommendation | Link
 5 |	A major barrier to optimal care is a delivery system that is often fragmented, lacks clinical information capabilities, duplicates services, and is poorly designed for the coordinated delivery of chronic care. The Chronic Care Model (CCM) has been shown to be an effective framework for improving the quality of diabetes care (7).
 6	| Providers should evaluate hyperglycemia and hypoglycemia in the context of food insecurity and propose solutions accordingly
 7	| Providers should recognize that homelessness, poor literacy, and poor numeracy often occur with food insecurity, and appropriate resources should be made available for patients with diabetes.
-8	| "Intensive glucose control is not advised for the improvement of poor cognitive function in hyperglycemic individuals with type 2 diabetes."
+8	| Intensive glucose control is not advised for the improvement of poor cognitive function in hyperglycemic individuals with type 2 diabetes.
 9	| In individuals with poor cognitive function or severe hypoglycemia, glycemic therapy should be tailored to avoid significant hypoglycemia.
-10 | "In individuals with diabetes at high cardiovascular risk, the cardiovascular benefits of statin therapy outweigh the risk of cognitive dysfunction."
+10 | In individuals with diabetes at high cardiovascular risk, the cardiovascular benefits of statin therapy outweigh the risk of cognitive dysfunction.
 11 | If a second-generation antipsychotic medication is prescribed, changes in weight, glycemic control, and cholesterol levels should be carefully monitored and the treatment regimen should be reassessed.
 16	| To test for prediabetes, fasting plasma glucose, 2-h plasma glucose after 75-g oral glucose tolerance test, and A1C are equally appropriate.
 19	| Type 1 Diabetes: Blood glucose rather than A1C should be used to diagnose acute onset of type 1 diabetes in individuals with symptoms of hyperglycemia.
@@ -200,11 +200,11 @@ Number | Recommendation | Link
 119	| A complete medical evaluation should be performed at the initial visit to review previous treatment and risk factor control in patients with established diabetes
 120	| A complete medical evaluation should be performed at the initial visit to begin patient engagement in the formulation of a care management plan
 121	| A complete medical evaluation should be performed at the initial visit to develop a plan for continuing care
-122	| "Patients with prediabetes should be referred to an intensive diet and physical activity behavioral counseling program adhering to the tenets of the Diabetes Prevention Program (DPP) targeting a loss of 7% of body weight and should increase their moderate-intensity physical activity (such as brisk walking) to at least 150 min/week."
-123	| "Follow-up counseling and maintenance programs should be offered for longterm success in preventing diabetes"
-124	| "Based on the cost-effectiveness of diabetes prevention, such programs should be covered by third-party payers."
-128	| "Diabetes self-management education and support programs are appropriate venues for people with prediabetes to receive education and support to develop and maintain behaviors that can prevent or delay the onset of diabetes."
-129	| "Technology-assisted tools including Internet-based social networks, distance learning, DVD-based content, and mobile applications can be useful elements of effective lifestyle modification to prevent diabetes."
+122	| Patients with prediabetes should be referred to an intensive diet and physical activity behavioral counseling program adhering to the tenets of the Diabetes Prevention Program (DPP) targeting a loss of 7% of body weight and should increase their moderate-intensity physical activity (such as brisk walking) to at least 150 min/week.
+123	| Follow-up counseling and maintenance programs should be offered for longterm success in preventing diabetes
+124	| Based on the cost-effectiveness of diabetes prevention, such programs should be covered by third-party payers.
+128	| Diabetes self-management education and support programs are appropriate venues for people with prediabetes to receive education and support to develop and maintain behaviors that can prevent or delay the onset of diabetes.
+129	| Technology-assisted tools including Internet-based social networks, distance learning, DVD-based content, and mobile applications can be useful elements of effective lifestyle modification to prevent diabetes.
 130	| When prescribed as part of a broader educational context, self-monitoring of blood glucose (SMBG) results may help to guide treatment decisions and/or self-management for patients using less frequent insulin injections B or noninsulin therapies
 131	| When prescribing SMBG, ensure that patients receive ongoing instruction and regular evaluation of SMBG technique, SMBG results, and their ability to use SMBG data to adjust therapy.
 132	| Most patients on intensive insulin regimens (multiple-dose insulin or insulin pump therapy) should consider SMBG prior to meals and snacks, occasionally postprandially, at bedtime, prior to exercise, when they suspect low blood glucose, after treating low blood glucose until they are normoglycemic, and prior to critical tasks such as driving. B
