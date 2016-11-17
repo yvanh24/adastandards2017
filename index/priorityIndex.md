@@ -1,4 +1,4 @@
-### Recommendations
+### Recommendations Sorted by Priority
 
 Priority | Number | Recommendation | Link
 -------- | ------ | -------------- | ----
