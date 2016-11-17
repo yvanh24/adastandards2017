@@ -1,7 +1,7 @@
 ### Recommendations
 
-Priority | Number | Recommendation | Link
--------- | ------ | -------------- | ----
+Number | Recommendation | Link
+------ | -------------- | ----
 1| A patient-centered communication style that incorporates patient preferences, assesses literacy and numeracy, and addresses cultural barriers to care should be used
 2| Treatment decisions should be timely and based on evidence-based guidelines that are tailored to individual patient preferences, prognoses, and comorbidities.
 3| Care should be aligned with components of the Chronic Care Model to ensure productive interactions between a prepared proactive practice team and an informed activated patient
