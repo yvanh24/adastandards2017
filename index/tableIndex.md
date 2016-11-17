@@ -10,7 +10,7 @@ Number | Item | Link
 4	| In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose >=200 mg/dL (11.1 mmol/L)
 
 ### Table 2.2: Criteria for testing for diabetes or prediabetes in asymptomatic adults:
-#### Link:
+#### Link: [!table2-2] (https://github.com/johnnybender/adastandards2016/blob/master/tables/!table2-2.md)
 
 Number | Item | Link
 ------ | ---- | ----
