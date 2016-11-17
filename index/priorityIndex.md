@@ -1,4 +1,7 @@
+### Recommendations
 
+Priority | Number | Recommendation | Link
+-------- | ------ | -------------- | ----
 1|27 | Test for undiagnosed type 2 diabetes at the first prenatal visit in those with risk factors, using standard diagnostic criteria. | [rec27] (https://github.com/johnnybender/adastandards2016/blob/master/recs/rec27.md)
 1|28 | Test for gestational diabetes mellitus at 24–28 weeks of gestation in pregnant women not previously known to have diabetes.
 1|29 | Screen women with gestational diabetes mellitus for persistent diabetes at 6–12 weeks postpartum, using the oral glucose tolerance test and clinically appropriate nonpregnancy diagnostic criteria.
