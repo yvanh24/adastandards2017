@@ -21,6 +21,7 @@ Overweight/Obese | E66, E66.0, E66.01, E66.09, E66.1, E66.2, E66.3, E66.8, E66.9
 
 Description | Codes
 ----------- | -----
+BMI | 39156-5
 HDL Cholesterol (mass/V) | 2085-9
 HDL Cholesterol (moles/V) | 14646-4
 Triglyceride [Mass/volume] in Blood | 3043-7
