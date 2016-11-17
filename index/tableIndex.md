@@ -24,8 +24,8 @@ Number | Item | Link
 15 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and A1C >=5.7% (39 mmol/mol), IGT, or IFG on previous testing | [table15] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table15.md)
 16 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and other clinical conditions associated with insulin resistance (e.g., severe obesity, acanthosis nigricans) | [table16] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table16.md)
 17 | Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and history of CVD | [table17] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table17.md)
-18 | For all patients, testing should begin at age 45 years | [table18] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table18.md)
-19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status | [table19] (https://github.com/johnnybender/adastandards2016/blob/master/tables/table19.md)
+18 | For all patients, testing should begin at age 45 years
+19 | If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status
 
 ### Table 2.3: Criteria for Pre-diabetes:
 #### Link:
