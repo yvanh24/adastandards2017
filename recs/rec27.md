@@ -21,7 +21,7 @@ Supervision of normal first pregnancy | V22.0
 Description | Codes
 ----------- | -----
 Type 2 Diabetes | E11.*
-First prenatal visit: Z34.*
+First prenatal visit | Z34.*
 
 #### LOINC Codes:
 
