@@ -8,4 +8,4 @@ Contains listing of links to recommendations and table items from the 2016 Ameri
 Contains comprehensive listing of raw recommendations
 
 ## Table folder
-Contains comprehensive listing of raw table items
+Contains comprehensive listing of raw table items!
