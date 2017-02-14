@@ -1,6 +1,6 @@
 [tableIndex] (https://github.com/johnnybender/adastandards2016/blob/master/index/tableIndex.md)
 
-### **Testing should be considered in all adults who are overweight (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) and physical inactivity**
+### **FPG >=126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h.**
 * Table 2.1
 * Number 1
 
