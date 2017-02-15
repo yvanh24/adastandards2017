@@ -2,7 +2,7 @@
 
 ### **Recommendation Title**
 * Recommendation Number
-* Evidence: B
+* Evidence Letter
 * Category Name
 
 #### ICD-9 Codes:
