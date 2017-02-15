@@ -67,3 +67,4 @@ ID17: Table 2.2: ICD9: Cardisease |
 ID17: Table 2.2: ICD10: Cardisease |
 
 #### Implementation:
+((Age >= 18 YO) OR (Table 2.2: ID8: Overweight/Obese)) AND ((ID17: Table 2.2: ICD9: Cardisease) OR (ID17: Table 2.2: ICD10: Cardisease))
