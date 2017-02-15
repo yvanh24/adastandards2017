@@ -2,11 +2,8 @@
 
 ### **Test for undiagnosed type 2 diabetes at the first prenatal visit in those with risk factors, using standard diagnostic criteria.**
 * Recommendation 27
-* Page S18
-* Official: Yes
 * Evidence: B
 * Category: Classification and Diagnosis of Diabetes: Gestational Diabetes Mellitus
-* Table: Gestational Diabetes Mellitus: Recommendations
 
 #### ICD-9 Codes:
 
