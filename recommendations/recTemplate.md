@@ -9,10 +9,7 @@
 
 Description | Codes
 ----------- | -----
-Example | 55, 25, 35, 12
-Example 2 | 12, 44, 55, 67
-tjasdf | 7383
-asdfsd | 29204-
+|
 
 #### ICD-10 Codes:
 
@@ -53,6 +50,6 @@ Description | Codes
 
 Module |
 ------ |
-|
+Example |
 
 #### Implementation:
