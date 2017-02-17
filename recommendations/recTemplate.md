@@ -50,6 +50,6 @@ Description | Codes
 
 Module |
 ------ |
-Example |
+|
 
 #### Implementation:
