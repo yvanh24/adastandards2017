@@ -1,4 +1,38 @@
 IS	
+deleteIS	
+deleteIS	
 Laboratory
-(by or) Dictionary : LOINC; Performed; Value >= 23;	Code Modifiers				
-Body mass index (BMI) [Ratio]	39156-5
+(by or) Dictionary : LOINC; Performed; Value > 8;	Code		Modifiers				
+Hemoglobin A1c in Blood	55454-3					
+AND	
+deleteIS	
+Diagnosis
+(by or) Dictionary : ICD9; Days: Period;	Code						
+DIABETES CIRC DIS TYPE II UNCONT	250.72					
+DIABETES CIRCULAT DIS TYPE II	250.70					
+DIABETES COMA OT TYPE II	250.30					
+DIABETES COMPL UNSP TYPE II UNCN	250.92					
+DIABETES EYE MANIF TYPE II	250.50					
+DIABETES EYE MANIF TYPE II UNCN	250.52					
+DIABETES HYPERSMOLARITY TYPE II	250.20					
+DIABETES HYPRSMLRTY TYPE II UNC	250.22					
+DIABETES KETOACID TYPE II UNCONT	250.12					
+DIABETES KETOACIDOSIS TYPE II	250.10					
+DIABETES NEUR MANIF TYPE II UNCN	250.62					
+DIABETES NEURO MANIF TYPE II	250.60					
+DIABETES RENAL MANIF TYPE II	250.40					
+DIABETES RENAL MANIF TYPE II UNC	250.42					
+DIABETES UNCOMP TYPE II UNCONTRD	250.02					
+DIABETES UNCOMPL TYPE II	250.00					
+DIABETES W COMA TYPE II UNCONTR	250.32					
+DIABETES W COMPL UNSP TYPE II	250.90					
+DIABETES W MANIF OT TYPE II	250.80					
+AND	
+deleteIS	
+Age is more than 18 years
+
+OR	
+deleteIS NOT	
+Care
+(by or) Dictionary : CPT; Performed; ;	Code						
+office visit (previous patient)	99210					
