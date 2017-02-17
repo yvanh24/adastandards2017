@@ -9,4 +9,3 @@ Contains comprehensive listing of raw recommendations from the 2017 American Dia
 
 ## "tables" folder
 Contains comprehensive listing of raw table elements from the 2017 American Diabetes Association Standards of Medical Care in Diabetes.
-
