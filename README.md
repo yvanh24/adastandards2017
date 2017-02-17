@@ -11,4 +11,4 @@ Contains comprehensive listing of raw recommendations from the 2017 American Dia
 Contains comprehensive listing of raw table elements from the 2017 American Diabetes Association Standards of Medical Care in Diabetes.
 
 ## "modules" folder
-Contains comprehensive listing of raw modularized search criteria for Wellcentive
+Contains comprehensive listing of raw modularized search criteria for Wellcentive.
