@@ -5,6 +5,18 @@
 * Evidence Letter
 * Category Name
 
+#### Race Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### Ethnicity Codes:
+
+Description | Codes
+----------- | -----
+|
+
 #### ICD-9 Codes:
 
 Description | Codes
@@ -17,13 +29,13 @@ Description | Codes
 ----------- | -----
 |
 
-#### LOINC Codes:
+#### ICD-10 PCS Codes:
 
 Description | Codes
 ----------- | -----
 |
 
-#### HCPCS Codes:
+#### SNOMED Codes:
 
 Description | Codes
 ----------- | -----
@@ -35,15 +47,40 @@ Description | Codes
 ----------- | -----
 |
 
-#### SNOMED Codes:
+#### HCPCS Codes:
 
 Description | Codes
 ----------- | -----
 |
-#### Tables Referenced:
+
+#### LOINC Codes:
 
 Description | Codes
 ----------- | -----
+|
+
+#### CVX Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### AHFS Medication Class:
+
+Description | Codes
+----------- | -----
+|
+
+#### RxNorm:
+
+Description | Codes
+----------- | -----
+|
+
+#### Miscellaneous Codes:
+
+Description | Dictionary | Codes
+----------- | ---------- | -----
 |
 
 #### Modules:
