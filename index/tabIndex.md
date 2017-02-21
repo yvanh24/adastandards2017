@@ -29,7 +29,7 @@ tab15|For all patients, testing should begin at age 45 years||
 tab16|If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status.||
 
 ### Table 2.4—Categories of increased risk for diabetes (prediabetes)
-#### Link: [tableName] ()
+#### Link: [table2.4] ()
 
 Number | Item | Link
 ------ | ---- | ----
