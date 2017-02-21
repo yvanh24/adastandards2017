@@ -38,15 +38,29 @@ tab18 | 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L
 tab19 | A1C 5.7-6.4% (39247 mmol/mol) (OR) |
 Notes | For all three tests, risk is continuous, extending below the lower limit of the range and becoming disproportionately greater at the higher end of the range. |
 
-### Table Title
-#### Link: [tableName] ()
+### Table 2.5—Testing for type 2 diabetes or prediabetes in asymptomatic children
+#### Link: [table2.5] ()
 
 Number | Item | Link
 ------ | ---- | ----
 |
 
-### Table Title
-#### Link: [tableName] ()
+### Table 3.2—Referrals for initial care management
+#### Link: [table3.2] ()
+
+Number | Item | Link
+------ | ---- | ----
+|
+
+### Table 4.1—MNT recommendations
+#### Link: [table4.1] ()
+
+Number | Item | Link
+------ | ---- | ----
+|
+
+### Table 10.2—Management of CKD in diabetes
+#### Link: [table10.2] ()
 
 Number | Item | Link
 ------ | ---- | ----
