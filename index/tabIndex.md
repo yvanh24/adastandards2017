@@ -1,5 +1,5 @@
 
-### Criteria for the diagnosis of diabetes
+### Table 2.2—Criteria for the diagnosis of diabetes
 #### Link: [tableName] ()
 
 Number | Item | Link
