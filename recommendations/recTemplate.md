@@ -1,9 +1,13 @@
 [recIndex] (https://github.com/johnnybender/adastandards2016/blob/master/index/recIndex.md)
 
 ### **Recommendation Title**
-* Recommendation Number
-* Evidence Letter
-* Category Name
+* Unique ID: 
+* Evidence Letter: 
+* Category Name: 
+* Page: 
+* Feasible: 
+* Type: 
+* Comments: 
 
 #### Race Codes:
 
