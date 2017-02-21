@@ -4,8 +4,8 @@
 
 Number | Item | Link
 ------ | ---- | ----
-tab01	| FPG ≥126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h. (OR) | 
-tab02 | 2-h PG ≥200 mg/dL (11.1 mmol/L) during an OGTT. The test should be performed as described by the WHO, using glucose load containing the equivalent of 75 g anhydrous glucose dissolved in water. (OR) |
+tab01	| FPG ≥126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h. (OR) | [tab01] ()
+tab02 | 2-h PG ≥200 mg/dL (11.1 mmol/L) during an OGTT. The test should be performed as described by the WHO, using glucose load containing the equivalent of 75 g anhydrous glucose dissolved in water. (OR) | [tab02] ()
 tab03 | A1C ≥6.5% (48 mmol/mol). The test should be performed in a laboratory using a method that is NGSP certified and standardized to the DCCT assay. (OR) |
 tab04 | In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose ≥200 mg/dL (11.1 mmol/L). (OR) |
 Notes | In the absence of unequivocal hyperglycemia, results should be confirmed by repeat testing. |
@@ -15,8 +15,8 @@ Notes | In the absence of unequivocal hyperglycemia, results should be confirmed
 
 Number | Item | Link
 ------ | ---- | ----
-tab05|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with A1C >=5.7% (39 mmol/mol), IGT, or IFG on previous testing||
-tab06|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with first-degree relative with diabetes||
+tab05|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with A1C >=5.7% (39 mmol/mol), IGT, or IFG on previous testing|[tab05] ()|
+tab06|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with first-degree relative with diabetes|[tab06] ()|
 tab07|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with high-risk race/ethnicity (e.g., African American, Latino, Native American, Asian American, Pacific Islander)||
 tab08|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with women who were diagnosed with GDM||
 tab09|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with history of CVD||
@@ -33,8 +33,8 @@ tab16|If results are normal, testing should be repeated at a minimum of 3-year i
 
 Number | Item | Link
 ------ | ---- | ----
-tab17 | FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (OR) |
-tab18 | 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (OR) |
+tab17 | FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (OR) | [tab17]()
+tab18 | 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (OR) | [tab18]()
 tab19 | A1C 5.7-6.4% (39247 mmol/mol) (OR) |
 Notes | For all three tests, risk is continuous, extending below the lower limit of the range and becoming disproportionately greater at the higher end of the range. |
 
