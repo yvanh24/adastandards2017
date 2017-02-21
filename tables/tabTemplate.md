@@ -1,4 +1,4 @@
-[tableIndex] (http://hyperlink-to-tableIndex.com)
+[tabIndex] (https://github.com/johnnybender/adastandards2017/blob/master/index/tabIndex.md)
 
 ### **Table Title**
 * Unique ID: 
