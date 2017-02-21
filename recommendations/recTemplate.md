@@ -9,8 +9,7 @@
 
 Description | Codes
 ----------- | -----
-DescriptionExample | Code Example
-Ex 2 | This is a code
+
 
 #### Ethnicity Codes:
 
