@@ -1,6 +1,6 @@
 
 ### Table 2.2—Criteria for the diagnosis of diabetes
-#### Link: [tableName] ()
+#### Link: [table2.2] ()
 
 Number | Item | Link
 ------ | ---- | ----
@@ -10,8 +10,8 @@ tab03 | A1C ≥6.5% (48 mmol/mol). The test should be performed in a laboratory 
 tab04 | In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose ≥200 mg/dL (11.1 mmol/L). (OR) |
 Notes | In the absence of unequivocal hyperglycemia, results should be confirmed by repeat testing. |
 
-### Table Title
-#### Link: [tableName] ()
+### Table 2.3—Criteria for testing for diabetes or prediabetes in asymptomatic adults
+#### Link: [table2.3] ()
 
 Number | Item | Link
 ------ | ---- | ----
