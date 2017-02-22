@@ -3,7 +3,7 @@
 Unique ID | Written Description | Category | Link |
 --------- | ------------------- | ---------| ---- |
 rec001|Treatment decisions should be timely, rely on evidence-based guidelines, and be made collaboratively with patients based on individual preferences, prognoses, and comorbidities. B|Promoting Health and Reducing Disparities in Populations|[rec001] ()
-rec002|Providers should consider the burden of treatment and self-efficacy of patients when recommending treatments. E|Promoting Health and Reducing Disparities in Populations|[rec002] ()
+rec002|Providers should consider the burden of treatment and self-efficacy of patients when recommending treatments. E|Promoting Health and Reducing Disparities in Populations|[rec002] (https://github.com/nnhong/adastandards2017/blob/master/recommendations/rec002.md)
 rec003|Treatment plans should align with the Chronic Care Model, emphasizing productive interactions between a prepared proactive practice team and an informed activated patient. A|Promoting Health and Reducing Disparities in Populations|
 rec004|When feasible, care systems should support team-based care, community involvement, patient registries, and decision support tools to meet patient needs. B|Promoting Health and Reducing Disparities in Populations|
 rec005|Providers should assess social context, including potential food insecurity, housing stability, and financial barriers, and apply that information to treatment decisions. A|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec005] (https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec005.md)
