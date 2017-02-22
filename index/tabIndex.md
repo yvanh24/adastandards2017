@@ -36,7 +36,7 @@ Number | Item | Link
 tab17 | FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L) (OR) | [tab17]()
 tab18 | 2-h PG in the 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (OR) | [tab18]()
 tab19 | A1C 5.7-6.4% (39247 mmol/mol) (OR) |[tab19] ()
-table2.4Notes | For all three tests, risk is continuous, extending below the lower limit of the range and becoming disproportionately greater at the higher end of the range. |[tab20] ()
+table2.4Notes | For all three tests, risk is continuous, extending below the lower limit of the range and becoming disproportionately greater at the higher end of the range. |[table2.4Notes] ()
 
 ### Table 2.5—Testing for type 2 diabetes or prediabetes in asymptomatic children
 #### Link: [table2.5] ()
