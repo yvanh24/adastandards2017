@@ -2,7 +2,7 @@
 Wellcentive search criteria for the [2017 American Diabetes Association Standards of Medical Care in Diabetes] (http://professional.diabetes.org/sites/professional.diabetes.org/files/media/dc_40_s1_final.pdf).
 
 Spreadsheet to help manage recommendations:
-https://docs.google.com/spreadsheets/d/1hH7qO_dSPVAY9DpN1TAasWD2Yq_qregHbSRfLg3Bna8/edit?usp=sharing
+https://goo.gl/oUHMXC
 
 ## "index" folder
 Contains listing of links to recommendations and table items from the 2017 American Diabetes Association Standards of Medical Care in Diabetes in tabular format. Also includes list of recommendations in order of priority in tabular format.
