@@ -1,0 +1,96 @@
+[recIndex] (https://github.com/johnnybender/adastandards2016/blob/master/index/recIndex.md)
+
+### **If tests are normal, repeat testing carried out at a minimum of 3-year intervals is reasonable.**
+* Unique ID: rec024
+* Evidence Letter: C
+* Category Name: TYPE 2 DIABETES
+* Page: S16
+* Feasible: Yes
+* Type: Gap
+* Comments: Reference table with risk factors for diabetes (Table 2.4)
+
+#### Race Codes:
+
+Description | Codes
+----------- | -----
+
+
+#### Ethnicity Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### ICD-9 Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### ICD-10 Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### ICD-10 PCS Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### SNOMED Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### CPT Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### HCPCS Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### LOINC Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### CVX Codes:
+
+Description | Codes
+----------- | -----
+|
+
+#### AHFS Medication Class:
+
+Description | Codes
+----------- | -----
+|
+
+#### RxNorm:
+
+Description | Codes
+----------- | -----
+|
+
+#### Miscellaneous Codes:
+
+Description | Dictionary | Codes
+----------- | ---------- | -----
+|
+
+#### Modules:
+
+Module |
+------ |
+|
+
+#### Implementation:

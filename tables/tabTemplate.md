@@ -1,14 +1,19 @@
-[tableIndex] (http://hyperlink-to-tableIndex.com)
+[tabIndex] (https://github.com/johnnybender/adastandards2017/blob/master/index/tabIndex.md)
 
-### **Title**
-* Name of source table
-* Unique ID
+### **Table Title**
+* Unique ID: 
+* Evidence Letter (if applicable): 
+* Table Name: 
+* Page: 
+* Feasible: 
+* Type: 
+* Comments: 
 
 #### Race Codes:
 
 Description | Codes
 ----------- | -----
-|
+
 
 #### Ethnicity Codes:
 
