@@ -23,7 +23,7 @@ tab09|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=2
 tab10|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with hypertension (>=140/90 mmHg or on therapy for hypertension)|[tab10] ()|
 tab11|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with HDL cholesterol level <35 mg/dL (0.90 mmol/L) and/or a triglyceride level >250 mg/dL (2.82 mmol/L)|[tab11] ()|
 tab12|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with women with polycystic ovary syndrome|[tab12] ()|
-tab13|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with physical inactivity|[tab13] ()|
+tab13|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with physical inactivity|[tab13] (https://github.com/johnnybender/adastandards2017/blob/master/tables/tab13.md)|
 tab14|Testing should be considered in overweight or obese (BMI >=25 kg/m2 or >=23 kg/m2 in Asian Americans) adults with other clinical conditions associated with insulin resistance (e.g., severe obesity, acanthosis nigricans).|[tab14] ()|
 tab15|For all patients, testing should begin at age 45 years|[tab15] ()|
 tab16|If results are normal, testing should be repeated at a minimum of 3-year intervals, with consideration of more frequent testing depending on initial results (e.g., those with prediabetes should be tested yearly) and risk status.|[tab16] ()|
