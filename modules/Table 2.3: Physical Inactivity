@@ -1,7 +1,9 @@
-IS	
 Diagnosis
 (by or) Dictionary : ICD9; Days: Period;	Code						
 LACK PHYSICAL EXERCISE	V69.0					
 AND	
-IS	
-Table 2.2: ID8: ICD10: Z72.3
+deleteIS	
+deleteIS	
+Diagnosis
+(by or) Dictionary : ICD10; Days: Period;	Code						
+Lack of physical exercise	Z72.3
