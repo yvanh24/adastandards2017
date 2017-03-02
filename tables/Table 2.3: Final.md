@@ -257,7 +257,7 @@ Description | Dictionary | Codes
 
 Module |
 ------ |
-Age >= 18 YO|
+Table 2.3: Overweight Adult |
 Table 2.3: Insulin Resistance |
 Table 2.3: Physical Inactivity |
 Table 2.3: Polycystic Ovary Syndrome |
