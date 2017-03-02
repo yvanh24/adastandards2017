@@ -1,7 +1,7 @@
 ### **Table Title**
 * Unique ID: 
 * Evidence Letter (if applicable): 
-* Table Name: Table 2.3  
+* Table Name: Table 2.3: FINAL  
 * Page: 
 * Feasible: 
 * Type: 
@@ -271,7 +271,7 @@ Table 2.3: Family History|
 
 #### Implementation:
 
-(Age >= 18 YO) AND (Table 2.3: Insulin Resistance) AND 
-(Table 2.3: Physical Inactivity) AND (Table 2.3: Polycystic Ovary Syndrome) AND (Table 2.3: Overweight Adult)
-AND (Table 2.3: LOINC A1C>5.7%) AND (Table 2.3: Hypertension) AND (Table 2.3: History of CVD)AND (Table 2.3: High Risk Race )
-AND (Table 2.3: HDL Cholesterol Level) AND (Table 2.3: GDM) AND (Table 2.3: Family History)
+(Age >= 18 YO) AND (Table 2.3: Insulin Resistance OR 
+Table 2.3: Physical Inactivity OR Table 2.3: Polycystic Ovary Syndrome OR Table 2.3: Overweight Adult
+OR Table 2.3: LOINC A1C>5.7% OR Table 2.3: Hypertension OR Table 2.3: History of CVD OR Table 2.3: High Risk Race 
+OR Table 2.3: HDL Cholesterol Level OR Table 2.3: GDM OR Table 2.3: Family History)
