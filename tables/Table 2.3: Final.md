@@ -13,7 +13,6 @@
 Description | Codes
 ----------- | -----
 American Indian or Alaska Native	|1
-Hispanic or Latino	|2
 Asian	|2
 Black or African American	|3
 Native Hawaiian or Other Pacific Islander	|4
@@ -22,7 +21,7 @@ Native Hawaiian or Other Pacific Islander	|4
 
 Description | Codes
 ----------- | -----
-|
+Hispanic or Latino | 2
 
 #### ICD-9 Codes:
 
