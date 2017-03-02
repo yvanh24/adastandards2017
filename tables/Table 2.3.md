@@ -13,7 +13,6 @@
 Description | Codes
 ----------- | -----
 American Indian or Alaska Native	|1
-Hispanic or Latino	|2
 Asian	|2
 Black or African American	|3
 Native Hawaiian or Other Pacific Islander	|4
@@ -22,7 +21,7 @@ Native Hawaiian or Other Pacific Islander	|4
 
 Description | Codes
 ----------- | -----
-|
+Hispanic or Latino | 2
 
 #### ICD-9 Codes:
 
@@ -257,7 +256,7 @@ Description | Dictionary | Codes
 
 Module |
 ------ |
-Age >= 18 YO|
+Table 2.3: Overweight Adult |
 Table 2.3: Insulin Resistance |
 Table 2.3: Physical Inactivity |
 Table 2.3: Polycystic Ovary Syndrome |
