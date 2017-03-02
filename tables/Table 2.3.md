@@ -263,12 +263,12 @@ Table 2.3: Physical Inactivity |
 Table 2.3: Polycystic Ovary Syndrome |
 Table 2.3: Overweight Adult |
 Table 2.3: LOINC A1C>5.7% |
-Table 2.3: Hypertension
+Table 2.3: Hypertension|
 Table 2.3: History of CVD|
 Table 2.3: High Risk Race 
-Table 2.3: HDL Cholesterol Level 
-Table 2.3: GDM
-Table 2.3: Family History 
+Table 2.3: HDL Cholesterol Level |
+Table 2.3: GDM|
+Table 2.3: Family History| 
 
 #### Implementation:
 
